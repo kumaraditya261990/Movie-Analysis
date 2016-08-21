@@ -1,0 +1,84 @@
+There are five solution files 
+four files Question_1.py, Question_2.py, Question_3.py and Question_4.py contain solution of problem
+
+fifth file singleFile.py contain solution of all 4 problems 
+
+HOW TO RUN 
+use  python 3.5 for batter output
+
+to excecute file : python singleFile.py 
+
+it will show you output like
+
+
+------------------Output of 1st problem------------
+Top ten most viewed movies with their  Name
+   MovieID  Views                                              Title
+0     2858   3428                             American Beauty (1999)
+1      260   2991          Star Wars: Episode IV - A New Hope (1977)
+2     1196   2990  Star Wars: Episode V - The Empire Strikes Back...
+3     1210   2883  Star Wars: Episode VI - Return of the Jedi (1983)
+4      480   2672                               Jurassic Park (1993)
+5     2028   2653                         Saving Private Ryan (1998)
+6      589   2649                  Terminator 2: Judgment Day (1991)
+7     2571   2590                                 Matrix, The (1999)
+8     1270   2583                          Back to the Future (1985)
+9      593   2578                   Silence of the Lambs, The (1991)
+-------------Output of 2nd problem--------------
+top 20 view/rated movie
+      MovieID                                              Title
+1974     2905                                     Sanjuro (1962)
+1327     2019  Seven Samurai (The Magnificent Seven) (Shichin...
+234       318                   Shawshank Redemption, The (1994)
+564       858                              Godfather, The (1972)
+514       745                              Close Shave, A (1995)
+44         50                         Usual Suspects, The (1995)
+401       527                            Schindler's List (1993)
+752      1148                         Wrong Trousers, The (1993)
+606       922      Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+780      1198                     Raiders of the Lost Ark (1981)
+588       904                                 Rear Window (1954)
+763      1178                              Paths of Glory (1957)
+190       260          Star Wars: Episode IV - A New Hope (1977)
+794      1212                              Third Man, The (1949)
+517       750  Dr. Strangelove or: How I Learned to Stop Worr...
+502       720  Wallace & Gromit: The Best of Aardman Animatio...
+789      1207                       To Kill a Mockingbird (1962)
+2327     3435                            Double Indemnity (1944)
+596       912                                  Casablanca (1942)
+480       670             World of Apu, The (Apur Sansar) (1959)
+-------------------------Output of 3rd problem-----------------------
+    MovieID  Total_Views  Views_By_Young  Views_By_Young_Adult  Views_By_Adult
+0      2905           69              10                    42              17
+1      2019          628              95                   354             179
+2       318         2227             510                  1278             439
+3       858         2223             417                  1282             524
+4       745          657             159                   427              71
+5        50         1783             434                  1089             260
+6       527         2304             498                  1288             518
+7      1148          882             221                   542             119
+8       922          470              57                   272             141
+9      1198         2514             541                  1498             475
+10      904         1050             140                   635             275
+11     1178          230              32                   116              82
+12      260         2991             663                  1754             574
+13     1212          480              60                   260             160
+14      750         1367             230                   769             368
+15      720          438             107                   265              66
+16     1207          928             180                   482             266
+17     3435          551              68                   314             169
+18      912         1669             261                   947             461
+19      670           56               5                    31              20
+-------------Output of 4th problam-------------------
+      UserID  Rating_count  Rating_sum
+3520    4486            51          54
+2804    3598            65          66
+3370    4295            40          89
+2099    2702            41          99
+4168    5334            55         106
+4589    5850            58         107
+3761    4804            47         116
+2260    2912            44         116
+3526    4493            50         117
+3123    3980            40         118
+
